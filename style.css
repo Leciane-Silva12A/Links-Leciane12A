@@ -20,6 +20,9 @@ div {
     text-align: center;
     border-radius: 12px;
 }
+h1, p, a{
+    color: white;
+}
 
 div img {
     border-radius: 50%;
@@ -30,4 +33,21 @@ div h1{
     font-size: 24px;
     line-height: 36px;
     font-weight: 600;
+    margin-bottom: 4;
+}
+
+div strong {
+    color: #C4F82A;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+div p{
+    margin-block: 24px;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+div a{
+    
 }
